@@ -1,0 +1,3 @@
+This configuration creates a Syslog Server with logcheck configured as well and exim configured with a mailrelay.
+Logcheck will be configured that it is possible to have different responsible persons for different systems based on the sending IP of the system.
+Please do nto hesitate to ask if something is needed.
